@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - PlayerFire
+  - Enemy
+  - EnemyFire
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Stars
+    uniqueID: 3396488701
+    locked: 0
+  - name: Lasers
+    uniqueID: 4190331221
+    locked: 0
+  - name: Ships
+    uniqueID: 840992645
+    locked: 0
+  - name: Explosions
+    uniqueID: 2652037207
+    locked: 0
